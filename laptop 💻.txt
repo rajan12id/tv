@@ -1,0 +1,788 @@
+#EXTINF:-1,IN:  Shemaroo Umang
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/300653
+#EXTINF:-1,IN: & pictures
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16958
+#EXTINF:-1,IN: & prive
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49557
+#EXTINF:-1,IN: & TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16964
+#EXTINF:-1,IN: & Xplor
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/196116
+#EXTINF:-1,IN: &flix
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45506
+#EXTINF:-1,IN: 3 Tamil TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/60420
+#EXTINF:-1,IN: 1st India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/159102
+#EXTINF:-1,IN: 24 News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82567
+#EXTINF:-1,IN: 5AAB TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286195
+#EXTINF:-1,IN: 7X Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/300652
+#EXTINF:-1,IN: 9X Jalwa
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45465
+#EXTINF:-1,IN: 9X Jhakaas
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165802
+#EXTINF:-1,IN: 9X Tashan
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45455
+#EXTINF:-1,IN: 9XM
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45471
+#EXTINF:-1,IN: 9XM Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299847
+#EXTINF:-1,IN: Aaj Tak
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/12977
+#EXTINF:-1,IN: Aamar Cinema
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/297564
+#EXTINF:-1,IN: Aastha Kannada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/269761
+#EXTINF:-1,IN: Aastha TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145647
+#EXTINF:-1,IN: ABN Telugu
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/163257
+#EXTINF:-1,IN: ABP Ananda
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/159103
+#EXTINF:-1,IN: ABP Majha
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283899
+#EXTINF:-1,IN: ABP News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16962
+#EXTINF:-1,IN: Adithya TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/157469
+#EXTINF:-1,IN: Akaal Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165767
+#EXTINF:-1,IN: Akaram Kidz
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267454
+#EXTINF:-1,IN: Amrita TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82497
+#EXTINF:-1,IN: Anboli
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299536
+#EXTINF:-1,IN: Angel TV India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/196120
+#EXTINF:-1,IN: ANIMAL PLANET (TATA PLAY)
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/296266
+#EXTINF:-1,IN: Anjan TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286918
+#EXTINF:-1,IN: Artist Aloud
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286920
+#EXTINF:-1,IN: Ashrafi Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286921
+#EXTINF:-1,IN: Asianet
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82579
+#EXTINF:-1,IN: Asianet Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/157463
+#EXTINF:-1,IN: Asianet News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/163276
+#EXTINF:-1,IN: Asianet News Tamil
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/294789
+#EXTINF:-1,IN: Asianet Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193206
+#EXTINF:-1,IN: Asianet Suvarna News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51844
+#EXTINF:-1,IN: Assam Talks
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/162127
+#EXTINF:-1,IN: Aus Tamil TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286792
+#EXTINF:-1,IN: Ayush TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82500
+#EXTINF:-1,IN: B4U Bhojpuri
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/197946
+#EXTINF:-1,IN: B4U Hitz
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286926
+#EXTINF:-1,IN: B4U Kadak
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49556
+#EXTINF:-1,IN: B4U Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1369
+#EXTINF:-1,IN: B4U Movies APAC
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/71071
+#EXTINF:-1,IN: B4U Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1368
+#EXTINF:-1,IN: B4U Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1367
+#EXTINF:-1,IN: Bansal News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165400
+#EXTINF:-1,IN: BBC Toronto
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49640
+#EXTINF:-1,IN: BBO CLASSIC
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267194
+#EXTINF:-1,IN: Bflix+ Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/73791
+#EXTINF:-1,IN: Bhojpuri Cinema
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193007
+#EXTINF:-1,IN: Big Magic
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49548
+#EXTINF:-1,IN: Bindass
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145655
+#EXTINF:-1,IN: Blessing TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299489
+#EXTINF:-1,IN: Bollywood Prime
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/300626
+#EXTINF:-1,IN: Boogle Bollywood
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193087
+#EXTINF:-1,IN: Brit Asia TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/71067
+#EXTINF:-1,IN: Captain TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/294952
+#EXTINF:-1,IN: Cartoon Network
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82584
+#EXTINF:-1,IN: Channel i
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/296496
+#EXTINF:-1,IN: Channel WIN
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/172318
+#EXTINF:-1,IN: Channel Y
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49586
+#EXTINF:-1,IN: Chardikla Time TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49637
+#EXTINF:-1,IN: Chutti TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/157495
+#EXTINF:-1,IN: Cine Voice
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49604
+#EXTINF:-1,IN: CNBC Awaaz
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49583
+#EXTINF:-1,IN: CNBC Bajar
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82506
+#EXTINF:-1,IN: Colors
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1366
+#EXTINF:-1,IN: Colors Bangla
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/247530
+#EXTINF:-1,IN: Colors Cineplex
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/19741
+#EXTINF:-1,IN: Colors Cineplex SuperHits
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299844
+#EXTINF:-1,IN: Colors Gujarati
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145645
+#EXTINF:-1,IN: Colors Kannada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192203
+#EXTINF:-1,IN: Colors Marathi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82642
+#EXTINF:-1,IN: Colors Rishtey
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49547
+#EXTINF:-1,IN: CVR News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/270135
+#EXTINF:-1,IN: Dabangg
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165800
+#EXTINF:-1,IN: Dangal TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82589
+#EXTINF:-1,IN: DD Bharati
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193040
+#EXTINF:-1,IN: DD Girnar
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145648
+#EXTINF:-1,IN: DD India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165806
+#EXTINF:-1,IN: DD Malayalam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45499
+#EXTINF:-1,IN: DD National
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192197
+#EXTINF:-1,IN: DD News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/21668
+#EXTINF:-1,IN: DD Podhigai
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193047
+#EXTINF:-1,IN: DD Punjabi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283904
+#EXTINF:-1,IN: DD Sports
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/56153
+#EXTINF:-1,IN: Desi Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49601
+#EXTINF:-1,IN: Dhinchaak
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192959
+#EXTINF:-1,IN: Dhoom Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/69362
+#EXTINF:-1,IN: Dighvijay News 24x7
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283905
+#EXTINF:-1,IN: Dil Se Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165784
+#EXTINF:-1,IN: Dillagi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/196128
+#EXTINF:-1,IN: Discovery Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/295292
+#EXTINF:-1,IN: Discovery Kids
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82683
+#EXTINF:-1,IN: Discovery Science
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1363
+#EXTINF:-1,IN: Discovery World
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/73792
+#EXTINF:-1,IN: Disney Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192985
+#EXTINF:-1,IN: Divyavani TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166373
+#EXTINF:-1,IN: E 24
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193086
+#EXTINF:-1,IN: Eet TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51818
+#EXTINF:-1,IN: Enterr 10
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193025
+#EXTINF:-1,IN: Epic TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192950
+#EXTINF:-1,IN: ET Now
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82513
+#EXTINF:-1,IN: Fakt Marathi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193017
+#EXTINF:-1,IN: Fast Way News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267402
+#EXTINF:-1,IN: Fateh TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166370
+#EXTINF:-1,IN: Filamchi Bhojpuri
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/272573
+#EXTINF:-1,IN: Flowers TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193148
+#EXTINF:-1,IN: Food Food
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1362
+#EXTINF:-1,IN: Garshom
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299851
+#EXTINF:-1,IN: Gaunda Punjab TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/296604
+#EXTINF:-1,IN: GDNS Ludhiana
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286949
+#EXTINF:-1,IN: Gemini
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165794
+#EXTINF:-1,IN: Gemini Comedy
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/264710
+#EXTINF:-1,IN: Gemini Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/297557
+#EXTINF:-1,IN: Gemini Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/297558
+#EXTINF:-1,IN: Global Punjab
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49647
+#EXTINF:-1,IN: Global Sanjh
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49617
+#EXTINF:-1,IN: Good News Today
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/296471
+#EXTINF:-1,IN: Goodness TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299860
+#EXTINF:-1,IN: Goodnews TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/159106
+#EXTINF:-1,IN: GS TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/196130
+#EXTINF:-1,IN: Harvest TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166372
+#EXTINF:-1,IN: Harvest USA
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/198220
+#EXTINF:-1,IN: High News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299491
+#EXTINF:-1,IN: History
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82604
+#EXTINF:-1,IN: HMTV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193056
+#EXTINF:-1,IN: Hulchul TV Canada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49630
+#EXTINF:-1,IN: Hungama TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267168
+#EXTINF:-1,IN: IBC 24
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193013
+#EXTINF:-1,IN: IBC Comedy
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45428
+#EXTINF:-1,IN: IBC Tamil TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51823
+#EXTINF:-1,IN: Imayam TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166375
+#EXTINF:-1,IN: India Ahead
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166376
+#EXTINF:-1,IN: India News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192968
+#EXTINF:-1,IN: India News Punjab
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/295396
+#EXTINF:-1,IN: India News Rajasthan
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299923
+#EXTINF:-1,IN: India News Uttar Pradesh
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299845
+#EXTINF:-1,IN: India plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/290683
+#EXTINF:-1,IN: India Today
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16970
+#EXTINF:-1,IN: India TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49577
+#EXTINF:-1,IN: INH 24x7
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193014
+#EXTINF:-1,IN: Ion TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/198746
+#EXTINF:-1,IN: Jaihind TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192073
+#EXTINF:-1,IN: Jan TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193176
+#EXTINF:-1,IN: Janam TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/197720
+#EXTINF:-1,IN: Janta TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/60348
+#EXTINF:-1,IN: Jaya Max
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51824
+#EXTINF:-1,IN: Jaya Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193207
+#EXTINF:-1,IN: Jaya TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145637
+#EXTINF:-1,IN: Jeevan TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166377
+#EXTINF:-1,IN: jhanjar music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82522
+#EXTINF:-1,IN: Jigyasa TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/275982
+#EXTINF:-1,IN: JonmoBhumi TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/285932
+#EXTINF:-1,IN: just flix
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/300627
+#EXTINF:-1,IN: K News India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/275947
+#EXTINF:-1,IN: Kadak Hits
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82523
+#EXTINF:-1,IN: Kairali News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/294953
+#EXTINF:-1,IN: Kairali TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51849
+#EXTINF:-1,IN: Kairali We
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299915
+#EXTINF:-1,IN: Kalaignar Murasu TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286966
+#EXTINF:-1,IN: Kalaignar Seithigal
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283911
+#EXTINF:-1,IN: Kalinga TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193062
+#EXTINF:-1,IN: Kanshi TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145661
+#EXTINF:-1,IN: Kappa TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193109
+#EXTINF:-1,IN: Kaumudy TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82530
+#EXTINF:-1,IN: KCL TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286959
+#EXTINF:-1,IN: KCV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286960
+#EXTINF:-1,IN: KCV Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286961
+#EXTINF:-1,IN: Kerala Vision
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267445
+#EXTINF:-1,IN: Khabrain Abhi Tak
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286974
+#EXTINF:-1,IN: KTV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/36442
+#EXTINF:-1,IN: Living India News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/159107
+#EXTINF:-1,IN: Lok Sabha TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82532
+#EXTINF:-1,IN: Madha TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193042
+#EXTINF:-1,IN: Maha Movie
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82608
+#EXTINF:-1,IN: Makkal TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51821
+#EXTINF:-1,IN: Malabar News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283914
+#EXTINF:-1,IN: Manorama News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192076
+#EXTINF:-1,IN: Manoranjan Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192200
+#EXTINF:-1,IN: Manoranjan TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/295501
+#EXTINF:-1,IN: Mantavya 24x7 News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/159109
+#EXTINF:-1,IN: Marutam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/60417
+#EXTINF:-1,IN: Mastiii
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/76958
+#EXTINF:-1,IN: Mathrubhumi News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/163277
+#EXTINF:-1,IN: Mazhavil Manorama
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193067
+#EXTINF:-1,IN: Media One
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51851
+#EXTINF:-1,IN: Mh 1 Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/198604
+#EXTINF:-1,IN: Moon TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/297560
+#EXTINF:-1,IN: Movies Now
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/169118
+#EXTINF:-1,IN: MTV Beats
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193068
+#EXTINF:-1,IN: MTV India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193647
+#EXTINF:-1,IN: Music India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1358
+#EXTINF:-1,IN: Nambikkai TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166382
+#EXTINF:-1,IN: Namdhari TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49646
+#EXTINF:-1,IN: Nazrana
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165810
+#EXTINF:-1,IN: NDTV 24X7
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/21664
+#EXTINF:-1,IN: NDTV India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166390
+#EXTINF:-1,IN: NDTV Profit
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166388
+#EXTINF:-1,IN: News 7 Tamil
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/269685
+#EXTINF:-1,IN: News 18 Asia
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299848
+#EXTINF:-1,IN: News 18 Assam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283919
+#EXTINF:-1,IN: News 18 Bengali
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/247526
+#EXTINF:-1,IN: News 18 Gujarati
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193127
+#EXTINF:-1,IN: News 18 India
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/247511
+#EXTINF:-1,IN: News 18 Kannada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193115
+#EXTINF:-1,IN: News 18 Kerala
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193150
+#EXTINF:-1,IN: News 18 Tamil
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283930
+#EXTINF:-1,IN: News 18 Urdu
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193015
+#EXTINF:-1,IN: News 18 Uttar Pradesh & Uttarakhand
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283931
+#EXTINF:-1,IN: News 1st
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/296492
+#EXTINF:-1,IN: News 24
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16601
+#EXTINF:-1,IN: News Live
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193089
+#EXTINF:-1,IN: Next TV Malabar
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/287006
+#EXTINF:-1,IN: Nick jr
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192989
+#EXTINF:-1,IN: NK TV Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299492
+#EXTINF:-1,IN: NRB TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/281555
+#EXTINF:-1,IN: NTV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165796
+#EXTINF:-1,IN: Odisha TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193136
+#EXTINF:-1,IN: Only Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/264726
+#EXTINF:-1,IN: Peace TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82613
+#EXTINF:-1,IN: Peppers TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166401
+#EXTINF:-1,IN: Pitaara
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145652
+#EXTINF:-1,IN: Polimer News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/163279
+#EXTINF:-1,IN: Polimer TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193202
+#EXTINF:-1,IN: POP Pataka
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82545
+#EXTINF:-1,IN: Power Vision
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299859
+#EXTINF:-1,IN: Pratidin Time
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/198224
+#EXTINF:-1,IN: Pravasi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/287012
+#EXTINF:-1,IN: Prime 9 News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/270138
+#EXTINF:-1,IN: Prime Canada TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49519
+#EXTINF:-1,IN: PTC Chakde
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193155
+#EXTINF:-1,IN: PTC News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/295294
+#EXTINF:-1,IN: PTC Punjabi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82616
+#EXTINF:-1,IN: PTC Punjabi Gold
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/197742
+#EXTINF:-1,IN: PTC Simran
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/264723
+#EXTINF:-1,IN: Public Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192145
+#EXTINF:-1,IN: Pulari TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/287016
+#EXTINF:-1,IN: Puthiya Thalaimurai
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193035
+#EXTINF:-1,IN: Puthuyugam TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/196101
+#EXTINF:-1,IN: Raj Digital Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/60418
+#EXTINF:-1,IN: Raj Musix Telugu
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193137
+#EXTINF:-1,IN: Raj News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/197939
+#EXTINF:-1,IN: Raj News Malayalam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193141
+#EXTINF:-1,IN: Raj TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193125
+#EXTINF:-1,IN: Real News Kerala
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/283939
+#EXTINF:-1,IN: Relax TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/287018
+#EXTINF:-1,IN: Reporter
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51854
+#EXTINF:-1,IN: Republic Bharat
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49582
+#EXTINF:-1,IN: Republic TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82617
+#EXTINF:-1,IN: Romedy Now
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51876
+#EXTINF:-1,IN: Rupavahini
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299528
+#EXTINF:-1,IN: Saam TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166387
+#EXTINF:-1,IN: Sada TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49625
+#EXTINF:-1,IN: Sadhna Plus News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166394
+#EXTINF:-1,IN: Sadhna TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166392
+#EXTINF:-1,IN: Safari
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193123
+#EXTINF:-1,IN: Sahara Samay
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/247493
+#EXTINF:-1,IN: Sakhi TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299857
+#EXTINF:-1,IN: Sakshi TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193164
+#EXTINF:-1,IN: Samachar Plus Rajasthan
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299499
+#EXTINF:-1,IN: Sana Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/287021
+#EXTINF:-1,IN: Sangat TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165765
+#EXTINF:-1,IN: Sangeet Bangla
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165827
+#EXTINF:-1,IN: Sanjha TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49624
+#EXTINF:-1,IN: Sankara TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166407
+#EXTINF:-1,IN: Sankhya TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299378
+#EXTINF:-1,IN: Sanskar TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51882
+#EXTINF:-1,IN: Sardari TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82554
+#EXTINF:-1,IN: Sarv Dharam Sangam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166791
+#EXTINF:-1,IN: Sathiyam TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193131
+#EXTINF:-1,IN: Satsang TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45463
+#EXTINF:-1,IN: Shemaroo TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192955
+#EXTINF:-1,IN: ShowBox
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192998
+#EXTINF:-1,IN: Shraddha Mh One
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193116
+#EXTINF:-1,IN: Shubhsandesh TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82557
+#EXTINF:-1,IN: Sikh Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82556
+#EXTINF:-1,IN: Sikh Spiritual Centre
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/286225
+#EXTINF:-1,IN: Sirippoli
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193163
+#EXTINF:-1,IN: Sivan TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/51842
+#EXTINF:-1,IN: Sonic Nickelodeon
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192988
+#EXTINF:-1,IN: Sony (Set India)
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/281867
+#EXTINF:-1,IN: Sony Aath
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/17005
+#EXTINF:-1,IN: Sony BBC Earth
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192995
+#EXTINF:-1,IN: Sony Marathi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193097
+#EXTINF:-1,IN: Sony Max 2
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/4862
+#EXTINF:-1,IN: Sony Max India +1
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1359
+#EXTINF:-1,IN: Sony Pal
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193645
+#EXTINF:-1,IN: Sony Pix
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49539
+#EXTINF:-1,IN: Sony SAB
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1073
+#EXTINF:-1,IN: Sony Sports Ten 1
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16622
+#EXTINF:-1,IN: Sony Sports Ten 2
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16621
+#EXTINF:-1,IN: Sony Sports Ten 3
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/56191
+#EXTINF:-1,IN: Sony Sports Ten 5
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/301072
+#EXTINF:-1,IN: Sony Wah
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165801
+#EXTINF:-1,IN: Sony Yay!
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1355
+#EXTINF:-1,IN: Star Bharat
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/284583
+#EXTINF:-1,IN: Star Gold
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1070
+#EXTINF:-1,IN: Star Gold 2
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/43919
+#EXTINF:-1,IN: Star Gold Select
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/297547
+#EXTINF:-1,IN: Star Jalsha
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/12979
+#EXTINF:-1,IN: Star Maa Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82624
+#EXTINF:-1,IN: Star Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/11511
+#EXTINF:-1,IN: Star Movies Select
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267542
+#EXTINF:-1,IN: Star Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16091
+#EXTINF:-1,IN: Star Pravah
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193149
+#EXTINF:-1,IN: Star Sports 1
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/3630
+#EXTINF:-1,IN: Star Sports 2
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/3631
+#EXTINF:-1,IN: Star Sports 3
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/62584
+#EXTINF:-1,IN: Star Sports Select 1
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82628
+#EXTINF:-1,IN: Star Sports Select 2
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16619
+#EXTINF:-1,IN: Star Suvarna
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193147
+#EXTINF:-1,IN: Star Vijay
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/19744
+#EXTINF:-1,IN: Steelbird Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49650
+#EXTINF:-1,IN: Subhavaartha TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166397
+#EXTINF:-1,IN: Sudarshan News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193077
+#EXTINF:-1,IN: Sun Life
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267819
+#EXTINF:-1,IN: Sun Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/157496
+#EXTINF:-1,IN: Sun News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/295303
+#EXTINF:-1,IN: Sun TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/76969
+#EXTINF:-1,IN: Surya
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193144
+#EXTINF:-1,IN: Surya Comedy
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299842
+#EXTINF:-1,IN: Surya Movies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193145
+#EXTINF:-1,IN: Surya Music
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299843
+#EXTINF:-1,IN: SVBC
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166383
+#EXTINF:-1,IN: Swamiji TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267416
+#EXTINF:-1,IN: Swaraj Express SMBC
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193093
+#EXTINF:-1,IN: T News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193024
+#EXTINF:-1,IN: Taaza TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299497
+#EXTINF:-1,IN: Tamil Vision
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/60423
+#EXTINF:-1,IN: Tamilan TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/267549
+#EXTINF:-1,IN: Tez
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192196
+#EXTINF:-1,IN: Thanthi TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45437
+#EXTINF:-1,IN: Times Now
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/76961
+#EXTINF:-1,IN: Travelxp
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82636
+#EXTINF:-1,IN: TV 5 Kannada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193065
+#EXTINF:-1,IN: TV 5 News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/296486
+#EXTINF:-1,IN: TV 9 Gujarati
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193152
+#EXTINF:-1,IN: TV 9 Kannada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193060
+#EXTINF:-1,IN: TV 9 Marathi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193016
+#EXTINF:-1,IN: TV 9 Telugu
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/163256
+#EXTINF:-1,IN: TV 16 Toronto
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/147414
+#EXTINF:-1,IN: Utsav Bharat
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16614
+#EXTINF:-1,IN: Utsav Gold
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82623
+#EXTINF:-1,IN: Utsav Plus
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/60347
+#EXTINF:-1,IN: V4 News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299537
+#EXTINF:-1,IN: V6 News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192185
+#EXTINF:-1,IN: Vasanth TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82569
+#EXTINF:-1,IN: Vasantham TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299474
+#EXTINF:-1,IN: Verbum TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299529
+#EXTINF:-1,IN: Victers TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299493
+#EXTINF:-1,IN: Vision Punjab TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/196089
+#EXTINF:-1,IN: VTV News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193081
+#EXTINF:-1,IN: Vyas Higher Education Channel
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/166395
+#EXTINF:-1,IN: We
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193159
+#EXTINF:-1,IN: Willow
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/165776
+#EXTINF:-1,IN: Wow Cinema One
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/197945
+#EXTINF:-1,IN: Zee 24 Ghanta
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193187
+#EXTINF:-1,IN: Zee 24 Kalak
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45484
+#EXTINF:-1,IN: Zee Action
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1353
+#EXTINF:-1,IN: Zee Aflam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/22067
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/19467
+#EXTINF:-1,IN: Zee Bangla
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145632
+#EXTINF:-1,IN: Zee Bangla Cinema
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/21658
+#EXTINF:-1,IN: Zee Biskope
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193009
+#EXTINF:-1,IN: Zee Bollywood
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1351
+#EXTINF:-1,IN: Zee Business
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16984
+#EXTINF:-1,IN: Zee Café
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/49561
+#EXTINF:-1,IN: Zee Cinema Asia
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1350
+#EXTINF:-1,IN: Zee Cinemalu
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45504
+#EXTINF:-1,IN: Zee Classic
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/21578
+#EXTINF:-1,IN: Zee Hindustan
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145633
+#EXTINF:-1,IN: Zee Kannada
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145631
+#EXTINF:-1,IN: Zee Keralam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/193146
+#EXTINF:-1,IN: Zee Magic
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/281920
+#EXTINF:-1,IN: Zee Marathi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/82646
+#EXTINF:-1,IN: Zee News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/5047
+#EXTINF:-1,IN: Zee Picchar
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192201
+#EXTINF:-1,IN: Zee Punjab Haryana Himachal
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299924
+#EXTINF:-1,IN: Zee Punjabi
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/145630
+#EXTINF:-1,IN: ZEE Rajasthan News
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/299922
+#EXTINF:-1,IN: Zee Salaam
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16981
+#EXTINF:-1,IN: Zee Talkies
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/16957
+#EXTINF:-1,IN: Zee Tamil
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/45505
+#EXTINF:-1,IN: Zee Telugu
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/21561
+#EXTINF:-1,IN: Zee TV
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1348
+#EXTINF:-1,IN: Zee World
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/172264
+#EXTINF:-1,IN: Zing
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/1347
+#EXTINF:-1,IN: Zoom
+http://iptvtree.net:8080/2c258a9b/c73f1cfbce/192069
